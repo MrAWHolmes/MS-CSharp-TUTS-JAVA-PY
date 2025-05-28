@@ -1,0 +1,14 @@
+c:\Users\archi\Documents\MS-CSharp\03Strings\obj\Debug\net9.0\03Strings.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\archi\Documents\MS-CSharp\03Strings\obj\Debug\net9.0\03Strings.AssemblyInfoInputs.cache
+c:\Users\archi\Documents\MS-CSharp\03Strings\obj\Debug\net9.0\03Strings.AssemblyInfo.cs
+c:\Users\archi\Documents\MS-CSharp\03Strings\obj\Debug\net9.0\03Strings.csproj.CoreCompileInputs.cache
+c:\Users\archi\Documents\MS-CSharp\03Strings\bin\Debug\net9.0\03Strings.exe
+C:\Users\archi\Documents\MS-CSharp\03Strings\bin\Debug\net9.0\03Strings.deps.json
+C:\Users\archi\Documents\MS-CSharp\03Strings\bin\Debug\net9.0\03Strings.runtimeconfig.json
+c:\Users\archi\Documents\MS-CSharp\03Strings\bin\Debug\net9.0\03Strings.dll
+c:\Users\archi\Documents\MS-CSharp\03Strings\bin\Debug\net9.0\03Strings.pdb
+c:\Users\archi\Documents\MS-CSharp\03Strings\obj\Debug\net9.0\03Strings.dll
+c:\Users\archi\Documents\MS-CSharp\03Strings\obj\Debug\net9.0\refint\03Strings.dll
+c:\Users\archi\Documents\MS-CSharp\03Strings\obj\Debug\net9.0\03Strings.pdb
+C:\Users\archi\Documents\MS-CSharp\03Strings\obj\Debug\net9.0\03Strings.genruntimeconfig.cache
+C:\Users\archi\Documents\MS-CSharp\03Strings\obj\Debug\net9.0\ref\03Strings.dll
