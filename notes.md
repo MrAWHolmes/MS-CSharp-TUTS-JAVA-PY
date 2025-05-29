@@ -53,6 +53,18 @@ starts with             string.StartsWith(substring)->bool      String.startsWit
 
 ends with               string.EndsWith(substring)->bool      String.endsWith(substring) -> boolean   result = string.endswith(substring)
 
+[05] Working with integers --> https://youtu.be/jEE0pWTq54U?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN 
+Concept                    C# Notes                                Java Notes                                  Python
+  output                    Console.WriteLine();                      system.out.println();                       print()
+  input                     string inS = Console.ReadLine();         import java.util.Scanner;                   inStr = input()  
+                                                                     Scanner conin = new Scanner(System.in);       
+                                                                     String inStr = conin.nextLine();  
+                                                                     conin.close();
+  Addition                  result = a + b
+
+  input                   
+  integer
+
 [B] C# for Beginners - More recent - modernised --> links to CodeAcademy
 
 [C] C# Code Academy Cert --> https://devblogs.microsoft.com/dotnet/announcing-foundational-csharp-certification/ 

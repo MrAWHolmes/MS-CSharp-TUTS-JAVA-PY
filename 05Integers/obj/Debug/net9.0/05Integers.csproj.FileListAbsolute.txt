@@ -1,0 +1,15 @@
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\bin\Debug\net9.0\05Integers.exe
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\bin\Debug\net9.0\05Integers.deps.json
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\bin\Debug\net9.0\05Integers.runtimeconfig.json
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\bin\Debug\net9.0\05Integers.dll
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\bin\Debug\net9.0\05Integers.pdb
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\obj\Debug\net9.0\05Integers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\obj\Debug\net9.0\05Integers.AssemblyInfoInputs.cache
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\obj\Debug\net9.0\05Integers.AssemblyInfo.cs
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\obj\Debug\net9.0\05Integers.csproj.CoreCompileInputs.cache
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\obj\Debug\net9.0\05Integers.sourcelink.json
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\obj\Debug\net9.0\05Integers.dll
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\obj\Debug\net9.0\refint\05Integers.dll
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\obj\Debug\net9.0\05Integers.pdb
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\obj\Debug\net9.0\05Integers.genruntimeconfig.cache
+c:\Users\archi\Documents\MS-CSharp-TUTS-JAVA-PY\05Integers\obj\Debug\net9.0\ref\05Integers.dll
